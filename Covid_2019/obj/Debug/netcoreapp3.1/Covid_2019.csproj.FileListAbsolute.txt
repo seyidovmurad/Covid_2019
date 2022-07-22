@@ -1,0 +1,40 @@
+C:/Users/seyi_od63/source/repos/Covid_2019/Covid_2019/bin/Debug/netcoreapp3.1/Covid_2019.exe
+C:/Users/seyi_od63/source/repos/Covid_2019/Covid_2019/bin/Debug/netcoreapp3.1/Covid_2019.deps.json
+C:/Users/seyi_od63/source/repos/Covid_2019/Covid_2019/bin/Debug/netcoreapp3.1/Covid_2019.runtimeconfig.json
+C:/Users/seyi_od63/source/repos/Covid_2019/Covid_2019/bin/Debug/netcoreapp3.1/Covid_2019.runtimeconfig.dev.json
+C:/Users/seyi_od63/source/repos/Covid_2019/Covid_2019/bin/Debug/netcoreapp3.1/Covid_2019.dll
+C:/Users/seyi_od63/source/repos/Covid_2019/Covid_2019/bin/Debug/netcoreapp3.1/Covid_2019.pdb
+C:/Users/seyi_od63/source/repos/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.csprojAssemblyReference.cache
+C:/Users/seyi_od63/source/repos/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.AssemblyInfoInputs.cache
+C:/Users/seyi_od63/source/repos/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.AssemblyInfo.cs
+C:/Users/seyi_od63/source/repos/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.csproj.CoreCompileInputs.cache
+C:/Users/seyi_od63/source/repos/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.dll
+C:/Users/seyi_od63/source/repos/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.pdb
+C:/Users/seyi_od63/source/repos/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.genruntimeconfig.cache
+C:/Users/01mur/Downloads/Covid_2019/Covid_2019/bin/Debug/netcoreapp3.1/Covid_2019.exe
+C:/Users/01mur/Downloads/Covid_2019/Covid_2019/bin/Debug/netcoreapp3.1/Covid_2019.deps.json
+C:/Users/01mur/Downloads/Covid_2019/Covid_2019/bin/Debug/netcoreapp3.1/Covid_2019.runtimeconfig.json
+C:/Users/01mur/Downloads/Covid_2019/Covid_2019/bin/Debug/netcoreapp3.1/Covid_2019.runtimeconfig.dev.json
+C:/Users/01mur/Downloads/Covid_2019/Covid_2019/bin/Debug/netcoreapp3.1/Covid_2019.dll
+C:/Users/01mur/Downloads/Covid_2019/Covid_2019/bin/Debug/netcoreapp3.1/Covid_2019.pdb
+C:/Users/01mur/Downloads/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.csprojAssemblyReference.cache
+C:/Users/01mur/Downloads/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.AssemblyInfoInputs.cache
+C:/Users/01mur/Downloads/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.AssemblyInfo.cs
+C:/Users/01mur/Downloads/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.csproj.CoreCompileInputs.cache
+C:/Users/01mur/Downloads/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.dll
+C:/Users/01mur/Downloads/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.pdb
+C:/Users/01mur/Downloads/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.genruntimeconfig.cache
+/Volumes/E disk/step it/Homework_c#/10-30.08.2021/Covid_2019/Covid_2019/bin/Debug/netcoreapp3.1/Covid_2019
+/Volumes/E disk/step it/Homework_c#/10-30.08.2021/Covid_2019/Covid_2019/bin/Debug/netcoreapp3.1/Covid_2019.deps.json
+/Volumes/E disk/step it/Homework_c#/10-30.08.2021/Covid_2019/Covid_2019/bin/Debug/netcoreapp3.1/Covid_2019.runtimeconfig.json
+/Volumes/E disk/step it/Homework_c#/10-30.08.2021/Covid_2019/Covid_2019/bin/Debug/netcoreapp3.1/Covid_2019.runtimeconfig.dev.json
+/Volumes/E disk/step it/Homework_c#/10-30.08.2021/Covid_2019/Covid_2019/bin/Debug/netcoreapp3.1/Covid_2019.dll
+/Volumes/E disk/step it/Homework_c#/10-30.08.2021/Covid_2019/Covid_2019/bin/Debug/netcoreapp3.1/Covid_2019.pdb
+/Volumes/E disk/step it/Homework_c#/10-30.08.2021/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.csproj.AssemblyReference.cache
+/Volumes/E disk/step it/Homework_c#/10-30.08.2021/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/E disk/step it/Homework_c#/10-30.08.2021/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.AssemblyInfoInputs.cache
+/Volumes/E disk/step it/Homework_c#/10-30.08.2021/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.AssemblyInfo.cs
+/Volumes/E disk/step it/Homework_c#/10-30.08.2021/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.csproj.CoreCompileInputs.cache
+/Volumes/E disk/step it/Homework_c#/10-30.08.2021/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.dll
+/Volumes/E disk/step it/Homework_c#/10-30.08.2021/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.pdb
+/Volumes/E disk/step it/Homework_c#/10-30.08.2021/Covid_2019/Covid_2019/obj/Debug/netcoreapp3.1/Covid_2019.genruntimeconfig.cache
